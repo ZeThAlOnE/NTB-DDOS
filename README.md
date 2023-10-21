@@ -1,6 +1,6 @@
 # NTB-DDOS
 
-```https://github.com/ZeThAlOnE/NTB-DDOS.git```
+```git clone https://github.com/ZeThAlOnE/NTB-DDOS.git```
 
 ```cd NTB-DDOS```
 
