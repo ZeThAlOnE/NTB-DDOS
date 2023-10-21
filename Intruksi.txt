@@ -1,0 +1,2 @@
+Masukkan website dengan printah: http:// (tanpa) https://
+Example: https://www.gov.il
